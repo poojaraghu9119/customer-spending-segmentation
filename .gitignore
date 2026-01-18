@@ -1,0 +1,25 @@
+# Credentials (VERY IMPORTANT)
+*.json
+*.key
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+
+# Data (if large or raw)
+data/raw/
+
